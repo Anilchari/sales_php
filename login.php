@@ -232,7 +232,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                                 <button class="btn_1 full_width text-center" type="submit" class="btn"
                                                     name="submit" value="login">Log in</button>
                                                 <p>Need an account? <a data-bs-toggle="modal" data-bs-target="#sing_up"
-                                                        data-bs-dismiss="modal" href="resister.php"> Sign Up</a></p>
+                                                        data-bs-dismiss="modal" href="register.php"> Sign Up</a></p>
                                                 <div class="text-center">
                                                     <a href="#" data-bs-toggle="modal" data-bs-target="#forgot_password"
                                                         data-bs-dismiss="modal" class="pass_forget_btn">Forget

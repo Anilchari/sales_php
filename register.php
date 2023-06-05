@@ -40,7 +40,7 @@ if (isset($_POST['submit'])) {
 <!DOCTYPE html>
 <html lang="zxx">
 
-<!-- Mirrored from demo.dashboardpack.com/sales-html/resister.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 May 2023 15:50:27 GMT -->
+<!-- Mirrored from demo.dashboardpack.com/sales-html/register.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 May 2023 15:50:27 GMT -->
 
 <head>
 
@@ -413,6 +413,6 @@ if (isset($_POST['submit'])) {
 <script src="js/custom.js"></script>
 
 
-<!-- Mirrored from demo.dashboardpack.com/sales-html/resister.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 May 2023 15:50:27 GMT -->
+<!-- Mirrored from demo.dashboardpack.com/sales-html/register.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 May 2023 15:50:27 GMT -->
 
 </html>

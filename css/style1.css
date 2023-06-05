@@ -2634,7 +2634,7 @@ p a:hover {
     border: 1px solid #fff;
     display: inline-block;
     padding: 14px 30px !important;
-    margin-right: 100px;
+   
     text-transform: capitalize;
     line-height: 16px;
     font-size: 13px;
@@ -5201,6 +5201,7 @@ body::-webkit-scrollbar {
     margin: 0 15px;
     border-radius: 5px;
     background: #64c5b1
+
 }
 
 .footer_part p {

@@ -211,7 +211,7 @@ $allData = $data->fetch_all(MYSQLI_ASSOC);
                                     <li class="breadcrumb-item active">category</li>
                                 </ol> -->
                             </div>
-                            <a href="resister.php" class="white_btn3">Create Report</a>
+                            <a href="register.php" class="white_btn3">Create Report</a>
                         </div>
                     </div>
                 </div>
@@ -255,7 +255,7 @@ $allData = $data->fetch_all(MYSQLI_ASSOC);
                     </div>
                     <br><br><br><br>
                     <br><br><br><br><br><br><br><br><br>
-                    <div class="footer_part">
+                    <div class="footer_part" style="padding-left: 0px">
                         <div class="container-fluid">
                             <div class="row">
                                 <div class="col-lg-12">
