@@ -396,20 +396,22 @@ if (isset($_POST['submit'])) {
         </a>
     </div>
 
-
-    <script src="js/jquery1-3.4.1.min.js"></script>
-
-    <script src="js/popper1.min.js"></script>
-
-    <script src="js/bootstrap.min.html"></script>
-
-    <script src="js/metisMenu.js"></script>
-
-    <script src="vendors/scroll/perfect-scrollbar.min.js"></script>
-    <script src="vendors/scroll/scrollable-custom.js"></script>
-
-    <script src="js/custom.js"></script>
 </body>
+
+
+<script src="js/jquery1-3.4.1.min.js"></script>
+
+<script src="js/popper1.min.js"></script>
+
+<script src="js/bootstrap.min.html"></script>
+
+<script src="js/metisMenu.js"></script>
+
+<script src="vendors/scroll/perfect-scrollbar.min.js"></script>
+<script src="vendors/scroll/scrollable-custom.js"></script>
+
+<script src="js/custom.js"></script>
+
 
 <!-- Mirrored from demo.dashboardpack.com/sales-html/resister.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 31 May 2023 15:50:27 GMT -->
 
