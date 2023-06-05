@@ -52,7 +52,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 
 
-    <section class="dashboard_part large_header_bg  mt-5">
+    <section class="main_content dashboard_part large_header_bg">
 
         <!-- <div class="container-fluid g-0">
             <div class="row">
@@ -191,7 +191,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </div> -->
 
 
-        <div class="main_content_iner ">
+        <div class="main_content_iner mt-5 col-lg-10">
             <div class="container-fluid p-0">
                 <div class="row justify-content-center">
                     <div class="col-8">
